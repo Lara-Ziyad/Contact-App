@@ -1,6 +1,6 @@
 # Contact Keeper
 
-> Full stack MERN contact manager with React hooks, context & JWT authentication. 
+>Full stack MERN contact application with React hooks, context for State Managment, CSS for design, build an API & JWT authentication.
 
 
 
